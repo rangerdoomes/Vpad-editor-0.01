@@ -1,0 +1,10 @@
+File Name:	api-ms-win-core-path-l1-1-0.dll
+Version:	6.3.9600.16384
+Architecture:	32
+File Size:	3 KiB(s)
+Language:	U.S English
+Company:	Microsoft Corporation
+Description:	ApiSet Stub DLL
+MD5:		0ed28b807adb89aa37f9b3c057134f4a
+SHA-1:		d2c4da154e9ea35f722c4d30b0dbd4dba6be4dab
+URI:		https://www.dll-files.com/search/?q=api-ms-win-core-path-l1-1-0.dll
