@@ -1,0 +1,7 @@
+black==22.3.0  # OPTIONAL
+colorama==0.4.4
+isort==5.10.1  # OPTIONAL
+pyfiglet==0.8.post1
+pyinstaller==4.10  # OPTIONAL
+pynput==1.7.6
+requests==2.27.1
