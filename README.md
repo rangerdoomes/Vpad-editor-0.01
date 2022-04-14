@@ -13,8 +13,8 @@ Keystroke logging often referred to as key-logging or keyboard capturing, is the
 * Works with Linux and Windows.
 
 ## Gallery:
-![CLI](https://user-images.githubusercontent.com/50825690/161907682-0a392d2f-aca2-4e1e-83cf-8c524eddfb78.png)
-![GUI](https://user-images.githubusercontent.com/50825690/161907691-706f1d82-6786-473d-8afe-436b5439f589.png)
+![CLI](https://user-images.githubusercontent.com/50825690/163394057-3cd90d69-b0cc-4228-b7e9-d51c09d5f8a7.png)
+![GUI](https://user-images.githubusercontent.com/50825690/163394067-44c4b9f6-95c5-417a-b574-20a64b084081.png)
 
 ## DISCLAIMER:
 * This program is related to Computer Security and not a tool that promotes hacking/cracking/software piracy.
