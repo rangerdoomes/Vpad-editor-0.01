@@ -1,3 +1,6 @@
+## version: 20220415
+* Added more pyfiglet font styles.
+
 ## version: 20220414
 * Added more pyfiglet font styles.
 
